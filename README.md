@@ -31,7 +31,7 @@ Installation instructions
 
 Clone the repository.
 
-git clone https://github.com/robin1004/front-end-capstone.git
+`git clone https://github.com/robin1004/front-end-capstone.git`
 
 To access data from the API, you must create a GitHub API Token (https://github.com/settings/tokens), create a .env file, and insert that token into the .env file along with a port number (port number can be of your choosing).
 
