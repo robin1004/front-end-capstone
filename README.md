@@ -2,7 +2,7 @@
 
 Using React.js developed front end implementation for a minimalistic single page ecommerce web app.
 
-Gives the user the ability to select different styles, view related products, and check reviews and ratings for the selected product.
+Gives the user the ability to select different styles, view related products, questions and answers, and check reviews and ratings for the selected product.
 
 ### Overview
 
